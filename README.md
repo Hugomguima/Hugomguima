@@ -3,6 +3,7 @@
 A recent graduate of Computer Science at Faculty of Engineering of the University of Porto (FEUP). This repository mainly contains projects performed during my 5 years studying.
 
 My preferred programing language is **Java** and I also have experience with:
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
