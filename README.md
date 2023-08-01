@@ -15,7 +15,7 @@ My main areas of interest are Software Engineering (Back-End) and DevOps, but I 
 
 ---- 
 
-📫 How to reach me: [huguima2000@gmail.com](mailto:huguima2000@gmail.com)
+📫 How to reach me: [guimaraes.hugom@outlook.com](mailto:guimaraes.hugom@outlook.com)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huguima2000@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-guimar%C3%A3es-5448a823b/)
+[![Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:guimaraes.hugom@outlook.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-guimar%C3%A3es-5448a823b/)
 
