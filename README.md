@@ -15,7 +15,7 @@ My preferred programming language is <strong>Java</strong> and I also have exper
 
 <p align="center">
 
-  <ul style="display: inline-block; text-align: center;">
+  <ul>
     <li>Python</li>
     <li>C</li>
     <li>C++</li>
