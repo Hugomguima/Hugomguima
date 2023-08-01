@@ -13,7 +13,7 @@ My preferred programming language is <strong>Java</strong> and I also have exper
 </p>
 
 <div style="text-align: center; ">
-    <ul style="display: inline-block;">
+    <ul style="display: inline-block; text-align: center;">
     <li>Python</li>
     <li>C</li>
     <li>C++</li>
