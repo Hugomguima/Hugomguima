@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Hugomguima/Hugomguima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a recent graduate of Computer Science at Faculty of Engineering of the University of Porto (FEUP) and this repository mainly contains projects performed during my 5 years studying.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My prefered programing lanaguage is *Java* and I also have experience with:
+- Python
+- C
+- C++
+- C# (Unity)
+- JavaScript/TypeScript
+- HTML/CSS/PHP (with and without frameworks)
+
+My main areas of interest are Software Engineering (Back-End) and DevOps, but I am open to different IT areas.
