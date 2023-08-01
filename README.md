@@ -19,6 +19,8 @@ My main areas of interest are Software Engineering (Back-End) and DevOps, but I 
 [![Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:guimaraes.hugom@outlook.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-guimar%C3%A3es-5448a823b/)
 
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hugomguima&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!---
 <h1 align='center'>
   Hi there 👋 I'm Hugo 👨‍💻
@@ -62,7 +64,7 @@ My main areas of interest are Software Engineering (Back-End) and DevOps, but I 
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugomguima&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hugomguima&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
