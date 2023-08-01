@@ -3,7 +3,7 @@
 
 I'm a recent graduate of Computer Science at Faculty of Engineering of the University of Porto (FEUP) and this repository mainly contains projects performed during my 5 years studying.
 
-My prefered programing lanaguage is *Java* and I also have experience with:
+My preferred programing language is **Java** and I also have experience with:
 - Python
 - C
 - C++
