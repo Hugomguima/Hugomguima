@@ -13,20 +13,14 @@ My preferred programming language is <strong>Java</strong> and I also have exper
 </p>
 
 
-<p align="center">
 
-  <ul>
-    <li>Python</li>
-    <li>C</li>
-    <li>C++</li>
-    <li>C# (Unity)</li>
-    <li>JavaScript/TypeScript</li>
-    <li>HTML/CSS/PHP (with and without frameworks)</li>
-  </ul>
-
+<p align='center'>
+  My preferred programing language is **Java** and I also have experience with Python, C, C++. C# (Unity), JavaScript/TypeScript, and HTML/CSS/PHP (with and without frameworks)
 </p>
 
-
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugomguima&layout=compact&theme=blue-green" />
+</p>
 
 
 <p align='center'>
