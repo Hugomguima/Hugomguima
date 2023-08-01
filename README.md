@@ -2,6 +2,8 @@
 
 A recent graduate of Computer Science at Faculty of Engineering of the University of Porto (FEUP). This repository mainly contains projects performed during my 5 years studying.
 
+My main areas of interest are Software Engineering (Back-End) and DevOps, but I am open to different IT areas.
+
 My preferred programing language is **Java** and I also have experience with:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -20,8 +22,6 @@ My preferred programing language is **Java** and I also have experience with:
 ![LATEX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-My main areas of interest are Software Engineering (Back-End) and DevOps, but I am open to different IT areas.
 
 ---- 
 
