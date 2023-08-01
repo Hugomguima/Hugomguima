@@ -12,16 +12,20 @@
 My preferred programming language is <strong>Java</strong> and I also have experience with:
 </p>
 
+<center>
+
 <div style="text-align: center; ">
     <ul style="display: inline-block; text-align: center;">
-    <li>Python</li>
-    <li>C</li>
-    <li>C++</li>
-    <li>C# (Unity)</li>
-    <li>JavaScript/TypeScript</li>
-    <li>HTML/CSS/PHP (with and without frameworks)</li>
+      <li>Python</li>
+      <li>C</li>
+      <li>C++</li>
+      <li>C# (Unity)</li>
+      <li>JavaScript/TypeScript</li>
+      <li>HTML/CSS/PHP (with and without frameworks)</li>
     </ul>
 </div>
+
+</center>
 
 
 
