@@ -7,13 +7,6 @@
   A recent graduate of Computer Science at Faculty of Engineering of the University of Porto (FEUP).
 </p>
 
-
-<p align='center'>
-My preferred programming language is <strong>Java</strong> and I also have experience with:
-</p>
-
-
-
 <p align='center'>
   My preferred programing language is <strong>Java</strong> and I also have experience with Python, C, C++. C# (Unity), JavaScript/TypeScript, and HTML/CSS/PHP (with and without frameworks)
 </p>
