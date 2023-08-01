@@ -13,7 +13,4 @@ My preferred programing language is **Java** and I also have experience with:
 
 My main areas of interest are Software Engineering (Back-End) and DevOps, but I am open to different IT areas.
 
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-guimar%C3%A3es-5448a823b/)
