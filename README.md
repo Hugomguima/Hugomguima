@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Hugo 👨‍💻
 
-A recent graduate of Computer Science at Faculty of Engineering of the University of Porto (FEUP). This repository mainly contains projects performed during my 5 years studying.
+A recent graduate of Computer Science at the Faculty of Engineering of the University of Porto (FEUP). This repository mainly contains projects performed during my 5 years of study.
 
 My main areas of interest are Software Engineering (Back-End) and DevOps, but I am open to different IT areas.
 
-My preferred programing language is **Java** and I also have experience with:
+My preferred programing language is **Java** and I also have academic experience with:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
