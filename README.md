@@ -4,7 +4,7 @@ A recent graduate of Computer Science at the Faculty of Engineering of the Unive
 
 My main areas of interest are Software Engineering (Back-End) and DevOps, but I am open to different IT areas.
 
-My preferred programing language is **Java** and I also have academic experience with:
+My preferred programming language is **Java** and I also have academic experience with:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -30,7 +30,10 @@ My preferred programing language is **Java** and I also have academic experience
 [![Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:guimaraes.hugom@outlook.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-guimar%C3%A3es-5448a823b/)
 
 
+---
+Badges from certifications:
 
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/96904373" alt="GitOps/ArgoCD/Kubernetes" width="100" height="100">
 
 
 
@@ -45,7 +48,7 @@ My preferred programing language is **Java** and I also have academic experience
 </p>
 
 <p align='center'>
-  My preferred programing language is <strong>Java</strong> and I also have academic experience with Python, C, C++. C# (Unity), JavaScript/TypeScript, and HTML/CSS/PHP (with and without frameworks)
+  My preferred programming language is <strong>Java</strong> and I also have academic experience with Python, C, C++. C# (Unity), JavaScript/TypeScript, and HTML/CSS/PHP (with and without frameworks)
 </p>
 
 <p align='center'>
